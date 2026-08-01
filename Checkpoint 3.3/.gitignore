@@ -1,0 +1,31 @@
+# Mühit dəyişənləri və API açarları (Həssas məlumatlar)
+.env
+.env.local
+.env.*.local
+
+# Virtual Mühit (Virtual Environment)
+venv/
+env/
+ENV/
+.venv/
+
+# Python Keş və Derleme Faylları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# İDE və Redaktor konfiqurasiyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test və Kapsam Raporları
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Əməliyyat Sistemi Faylları
+.DS_Store
+Thumbs.db
