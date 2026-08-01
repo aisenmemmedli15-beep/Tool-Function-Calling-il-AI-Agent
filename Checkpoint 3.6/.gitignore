@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Təhlükəsizlik üçün)
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
