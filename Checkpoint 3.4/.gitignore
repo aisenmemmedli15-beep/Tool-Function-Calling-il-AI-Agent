@@ -1,0 +1,25 @@
+#Python Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Environment Variables & Security Keys
+.env
+*.pem
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
